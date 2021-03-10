@@ -1,0 +1,30 @@
+{
+  "name": "postgre",
+  "version": "1.0.0",
+  "description": "Utilizando banco de dados Postgre juntamente com Node JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhobosXD/node-postgre.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Node",
+    "JS",
+    "Node",
+    "Postgre",
+    "Sql",
+    "Banco",
+    "de",
+    "dados"
+  ],
+  "author": "PhobosXD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhobosXD/node-postgre/issues"
+  },
+  "homepage": "https://github.com/PhobosXD/node-postgre#readme"
+}
